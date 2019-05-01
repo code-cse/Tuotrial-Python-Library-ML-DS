@@ -13,4 +13,4 @@ If you want to contribute in `Tuotrial-Python-Library-ML-DS` you are most welcom
 |:---:|:-------------:|
 | 1 | [opencv](opencv) | 
 | 2 | [numpy](numpy) | 
-| 2 | [matplotlib](matplotlib) | 
+| 3 | [matplotlib](matplotlib) | 
